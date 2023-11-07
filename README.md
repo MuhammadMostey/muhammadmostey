@@ -94,6 +94,6 @@ Tech Stacks not used
 - 🌱 I’m Software Developer
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me send me an email at muhammadmostey@gmail.com
-- 🌐 Visit my portfolio website now: muhammadmostey.com
+- 🌐 Visit my portfolio website now: www.muhammadmostey.com
 
 
