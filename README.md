@@ -90,9 +90,10 @@ Tech Stacks not used
 
 
 - 👋 Hi, I’m @MuhammadMostey
-- 👀 I’m interested in computer science, programming, AI, and Robotics
+- 👀 I’m interested in computer science, programming, AI, and Robotics and looking for roles in Tech.
 - 🌱 I’m Software Developer
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me send me an email to muhammadmostey@gmail.com
+- 📫 How to reach me send me an email at muhammadmostey@gmail.com
+- 🌐 Visit my portfolio website now: muhammadmostey.com
 
 
