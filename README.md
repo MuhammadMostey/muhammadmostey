@@ -1,6 +1,6 @@
-# Main
+# Hello 👋
 
-**Hello 👋!**
+## Main
 
 I'm Muhammad Mostey, a Computer Science graduate, I've completed Computers Science bachelor program with University of the People. I've worked in different fields prior to starting my bachelor degree program. I've 8+ years of expeirence in fields such as (Financial Accounting, Administration, IT, Project Coordination). I'm looking for opportunities in tech sector. I've programming foundations knowledge, HTML, CSS, JavaScript, Java, Python, SQL, GitHub, Linux, and more.
 
