@@ -10,6 +10,6 @@ I'm looking for the right opportunity that match my values either remote, locall
 
 
 ### Contact Details
-My portfolio website & Blog: https://muhammadmostey.com/
-Email: muhammadmostey@gmail.com
-LinkedIn: https://www.linkedin.com/in/mostey/
+My portfolio website & Blog: https://muhammadmostey.com/<br>
+Email: muhammadmostey@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/mostey/<br>
